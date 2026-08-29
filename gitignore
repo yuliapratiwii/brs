@@ -32,3 +32,5 @@ yarn-error.log
 !/bootstrap/cache/.gitkeep
 
 .vercel
+/bootstrap/cache/*.php
+!/bootstrap/cache/.gitignore
