@@ -23,8 +23,8 @@
         <header class="bg-navy text-white">
             <div class="max-w-3xl mx-auto px-6 py-5 flex items-center justify-between">
                 <div>
-                    <p class="text-xs tracking-widest uppercase text-slate-300">BPS Kota Lubuklinggau</p>
-                    <h1 class="font-serif-brs text-xl font-semibold">Pengajuan nomor berita resmi statistik</h1>
+                    <p class="text-xs tracking-widest uppercase text-slate-300">SINAR BRS</p>
+                    <h1 class="font-serif-brs text-xl font-semibold">Sistem Nomor Agenda Rilis BRS</h1>
                 </div>
                 <a href="{{ route('login') }}"
                 class="flex items-center gap-1.5 rounded-full border border-white/15 px-3 py-1.5 text-xs text-slate-300 hover:text-brass hover:border-brass/40 transition whitespace-nowrap">
