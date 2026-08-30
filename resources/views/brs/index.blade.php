@@ -146,7 +146,7 @@
                     <th class="px-4 py-3">Nomor BRS</th>
                     <th class="px-4 py-3">Judul</th>
                     <th class="px-4 py-3">Kategori</th>
-                    <th class="px-4 py-3">Tanggal</th>
+                    <th class="px-4 py-3">Tanggal Rilis</th>
                     <th class="px-4 py-3">Tim</th>
                     <th class="px-4 py-3 text-right">Aksi</th>
                 </tr>

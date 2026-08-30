@@ -24,8 +24,8 @@
     <header class="bg-navy text-white">
         <div class="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
             <div>
-                <p class="text-xs tracking-widest uppercase text-slate-300">BPS Kota Lubuklinggau</p>
-                <h1 class="font-serif-brs text-xl font-semibold">Agenda penomoran berita resmi statistik</h1>
+                <p class="text-xs tracking-widest uppercase text-slate-300">SINAR BRS</p>
+                <h1 class="font-serif-brs text-xl font-semibold">Sistem Nomor Agenda Rilis BRS</h1>
             </div>
             <nav class="flex items-center gap-5 text-sm">
             <div class="flex items-center gap-5">

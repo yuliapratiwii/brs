@@ -22,8 +22,8 @@
     <div class="w-full max-w-sm">
         <div class="text-center mb-8">
             <p class="text-xs tracking-widest uppercase text-slate-500">BPS Kota Lubuklinggau</p>
-            <h1 class="font-serif-brs text-xl font-semibold navy mt-1">Masuk Admin</h1>
-            <p class="text-sm text-slate-500 mt-1">Agenda penomoran berita resmi statistik</p>
+            <h1 class="font-serif-brs text-xl font-semibold navy mt-1">Sistem Nomor Agenda Rilis BRS</h1>
+            <p class="text-sm text-slate-500 mt-1">Masuk Admin</p>
         </div>
 
         <div class="bg-white rounded border border-hairline p-6">
